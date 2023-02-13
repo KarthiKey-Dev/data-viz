@@ -1,0 +1,6 @@
+.c > input,
+.c > textarea,
+.c > select,
+.c > button {
+  width: 100%;
+}
